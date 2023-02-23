@@ -32,4 +32,4 @@ Connect with Me
 
 [linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/morteza-hajiabadi/
 [twitter-img]: https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/M_Hajiabadi/
-[website-img]: https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://M-Hajiabadi.github.io/
+[website-img]: https://img.shields.io/badge/-Website-yellow?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://M-Hajiabadi.github.io/
