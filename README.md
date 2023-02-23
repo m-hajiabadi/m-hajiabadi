@@ -4,9 +4,11 @@ About Me
 I'm an Artificial Intelligence student based in Iran. I'm passionate about computer vision. When I'm not working, you can find me on the squash court.
 
 Skills and Interests
-Computer Vision
-Image Processing
-Machine Learning
+
+* Computer Vision
+* Image Processing
+* Machine Learning
+
 
 Portfolio
 
