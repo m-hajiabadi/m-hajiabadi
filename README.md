@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi there, I'm Morteza 👋
+About Me
 
-<!--
-**m-hajiabadi/m-hajiabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence student based in Iran. I'm passionate about computer vision. When I'm not working, you can find me on the squash court.
 
-Here are some ideas to get you started:
+Skills and Interests
+Computer Vision
+Image Processing
+Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio
+
+Here are some of my recent projects:
+
+PROJECT 1
+PROJECT 2
+PROJECT 3
+
+Connect with Me### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/morteza-hajiabadi/)
+- [Twitter](https://twitter.com/M_Hajiabadi)
+- [Personal Website](https://M-Hajiabadi.github.io)
