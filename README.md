@@ -35,4 +35,4 @@ Connect with Me
 [linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/morteza-hajiabadi/
 [twitter-img]: https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/M_Hajiabadi/
 [instagram-img]: https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hajiabadimorteza/
-[website-img]: https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://M-Hajiabadi.github.io/
+[website-img]: https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://M-Hajiabadi.github.io/
