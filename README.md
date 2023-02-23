@@ -15,16 +15,12 @@ Portfolio
 Here are some of my recent projects:
 
 * [Gathering Data From the Form ](https://github.com/m-hajiabadi/Gathering-Data-From-the-Form)
-* [TBClassificaito](https://github.com/m-hajiabadi/TBClassificaiton)
+* [TBClassificaiton](https://github.com/m-hajiabadi/TBClassificaiton)
 * [Shahbeyt](https://github.com/m-hajiabadi/Shahbeyt)
 
 Connect with Me
 
-<!-- - [LinkedIn](https://www.linkedin.com/in/morteza-hajiabadi/)
-- [Twitter](https://twitter.com/M_Hajiabadi)
-- [Personal Website](https://M-Hajiabadi.github.io)
- -->
- [![LinkedIn][linkedin-img]][linkedin]
+[![LinkedIn][linkedin-img]][linkedin]
 [![Twitter][twitter-img]][twitter]
 [![Instagram][instagram-img]][instagram]
 [![Website][website-img]][website]
@@ -38,3 +34,6 @@ Connect with Me
 [twitter-img]: https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/M_Hajiabadi/
 [instagram-img]: https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hajiabadimorteza/
 [website-img]: https://img.shields.io/badge/-Website-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://M-Hajiabadi.github.io/
+
+[Email me](mailto:hajiabadi1377@gmail.com)
+
