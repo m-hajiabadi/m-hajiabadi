@@ -19,7 +19,7 @@ Here are some of my recent projects:
 * [Shahbeyt](https://github.com/m-hajiabadi/Shahbeyt)
 
 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=m-hajiabadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 Connect with Me
 
