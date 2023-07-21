@@ -18,6 +18,9 @@ Here are some of my recent projects:
 * [TBClassificaiton](https://github.com/m-hajiabadi/TBClassificaiton)
 * [Shahbeyt](https://github.com/m-hajiabadi/Shahbeyt)
 
+Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
 Connect with Me
 
 [![LinkedIn][linkedin-img]][linkedin]
