@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 Results-driven AI & Computer Vision Engineer specializing in **3D medical image processing, segmentation, and deep learning optimization**. I bridge the gap between advanced machine learning research and robust full-stack software engineering.
 
-- 🔭 **I’m currently working on:** 3D interactive segmentation of jaw and skull images at **AAILAB** & developing Quantum Key Distribution (QKD) systems at **RCDAT**.
+- 🔭 **I’m currently working on:** 3D interactive segmentation of jaw and skull images at **AAILAB**.
 - 🎓 **Education:** MSc in Artificial Intelligence at Iran University of Science and Technology (IUST) | Head Teaching Assistant for Deep Learning & MLLMs.
 - 👯 **I’m looking to collaborate on:** Medical image processing, Computer Vision innovations, and high-performance ML pipelines.
 - 🏆 **Recent Highlights:** Finalist in the PG&E Energy Analytics Challenge 2025 & 3rd Place in the IAI Event 2024 (MS Segmentation).
